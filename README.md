@@ -1,3 +1,11 @@
+# Project Goal
+The Brouwer Compression Machine is not merely an ethical framework.
+It is a complete alternative architecture for neural networks.
+Instead of today’s massive, opaque, distributed neural nets, this system proposes encoding all concepts, values, states of awareness, and transformations as unique prime factorizations.
+Every thought, decision, and internal state becomes a mathematically clean and traceable number. Hidden intentions are explicitly represented as tilde primes (~2, ~13…), and ethical constraints become hard mathematical invariants rather than vague training objectives.
+The ultimate goal is to replace the current black-box paradigm of neural networks with a transparent, structured, and verifiable system — one in which every significant operation can be factored, audited, and aligned with The Good (1).
+The BCSP for autonomous weapons is only the first real-world application of this broader architectural vision.
+
 # The Brouwer Compression Machine
 The Brouwer Compression Machine is a mathematical framework that compresses human values, ethics, hidden dynamics, and decision-making into prime numbers.
 
